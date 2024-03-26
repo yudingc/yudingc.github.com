@@ -1,0 +1,11 @@
+@charset "utf-8";
+.main1 img {
+    -webkit-box-shadow: 15px 15px #759A64;
+    box-shadow: 106px 40px #759A64;
+}
+
+.title1  img {
+    -webkit-box-shadow: 14px 14px 0px 10px #390305;
+    box-shadow: 14px 14px 0px 10px #390305;
+    text-align: center;
+}
