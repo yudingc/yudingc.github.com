@@ -548,6 +548,12 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+.card .card-body .card-text {
+}
+body p {
+}
+
+
 
 @media (min-width: 576px) {
   .container {
